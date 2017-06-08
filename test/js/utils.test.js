@@ -36,5 +36,5 @@ test('fibonacci_on_memory [-1]', t => {
   const error = t.throws(() => {
     fibonacci_on_memory(-1);
   }, Error);
-  t.is(error.message, '`n` must be positive number!aa')
+  t.is(error.message, '`n` must be positive number!')
 });
