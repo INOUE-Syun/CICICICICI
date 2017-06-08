@@ -1,0 +1,15 @@
+machine:
+  node:
+    version: 6.9.3
+
+dependencies:
+  override:
+    - yarn install
+
+test:
+  override:
+    - yarn test
+
+compile:
+  override:
+    - yarn build
