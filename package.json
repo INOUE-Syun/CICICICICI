@@ -1,7 +1,7 @@
 {
   "name": "CICICICICI",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./src/js/app.js",
   "repository": "https://github.com/INOUE-Syun/CICICICICI.git",
   "author": "INOUE-Syun <xinoue.syun@contract.isid.co.jp>",
   "license": "MIT",
